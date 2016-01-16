@@ -10,8 +10,8 @@
 
 2. Instructions
 =================================================
-1) open matlab, navigate to the directory <code>.<br>
+1) open matlab, navigate to the directory "code".<br>
 2) run "mex_complie".<br>
 3) run "anno_showResults" to visualize the groundthruth.<br>
 4) run "cf_showResults" to visualize the contour flow estimated by our method.<br>
-5) run "qa_compareResult" to find the matching between the groundtruth and the contour flow, and run "qa_statResult" to plot the coverage against the error threshold.<br>
+5) run "qa_compareResult" to find the matching between the groundtruth and the contour flow, and run "qa_statResult" to plot the coverage against the error threshold.
