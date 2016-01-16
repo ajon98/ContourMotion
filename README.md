@@ -4,10 +4,10 @@
 +---frames: the image sequences in the dataset.<br>
 +---groundTruth: the annotated motion of some contours.<br>
 +---results/contourFlow: the contour flow estimated by our method.<br>
->>>In each mat file:<br>
->>>>>>"contourPair" is the frame-by-frame contour flow,<br> 
->>>>>>"cfTrackData" is the long-term trajectories obtained by concatenating the contour flow,<br>
->>>>>>"cfTrackInfo" is the start and end frame for each trajectory.<br>
+>>In each mat file:<br>
+>>>>"contourPair" is the frame-by-frame contour flow,<br> 
+>>>>"cfTrackData" is the long-term trajectories obtained by concatenating the contour flow,<br>
+>>>>"cfTrackInfo" is the start and end frame for each trajectory.<br>
 
 2. Instructions
 =================================================
